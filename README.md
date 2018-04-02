@@ -1,6 +1,8 @@
 # flutter_movie_app
 <img src="screenshots/main_page.png" width="250"> <img src="screenshots/details_page.png" width="250">
 
+Project for practice Flutter.
+
 Based on:
 
 https://www.uplabs.com/posts/movie-interface
