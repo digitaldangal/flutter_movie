@@ -1,4 +1,5 @@
 # flutter_movie_app
+<img src="screenshots/main_page.png" width="250"> <img src="screenshots/details_page.png" width="250">
 
 Based on:
 
