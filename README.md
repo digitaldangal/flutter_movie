@@ -1,8 +1,7 @@
 # flutter_movie_app
 
-A new Flutter application.
+Based on:
 
-## Getting Started
+https://www.uplabs.com/posts/movie-interface
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+https://flutter.rocks/2017/09/12/from-wireframes-to-flutter-movie-details-page/
